@@ -1,0 +1,11 @@
+{
+  "name": "practice-aws-ec2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KimJunYoung1/practice-aws-ec2.git",
+  "author": "Jveloper <soxo1027@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
